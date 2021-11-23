@@ -1,0 +1,6 @@
+authenticated.users=[{"id"\:"f5ec4de7-a113-4b7c-a110-91f922a2b656","token"\:"5f33a2b8-b349-42cf-824a-e80580bec175","userId"\:"ParthAgarwal","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+current.token=5f33a2b8-b349-42cf-824a-e80580bec175
+current.user=ParthAgarwal
+eclipse.preferences.version=1
+expiration.time=1
+org.mule.tooling.amc.apps={"userProjectMap"\:{"ParthAgarwal"\:{"apidev-american-webservice"\:"{\\"applicationName\\"\:\\"apidev-american-webservice\\",\\"muleRuntime\\"\:\\"3.8.7\\",\\"properties\\"\:{\\"env\\"\:\\"DEV\\"}}"}}}
